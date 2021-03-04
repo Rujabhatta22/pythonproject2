@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb02d49-a918-4913-bdc3-317d36b24b77" name="Default Changelist" comment="project2">
-      <change afterPath="$PROJECT_DIR$/no3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/project2/no3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\RUJA\PycharmProjects\pythonProject2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RUJA\PycharmProjects\pythonProject2\project2\project2" />
     </key>
   </component>
   <component name="RunManager" selected="Python.project2">
@@ -103,6 +107,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project2" />
